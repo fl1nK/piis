@@ -1,4 +1,5 @@
 LAB-2
+
 MinMax:                 python pacman.py -p MinimaxAgent -l smallClassic -a depth=3
 
 Alpha-Beta Pruning:     python pacman.py -p AlphaBetaAgent -l smallClassic -a depth=3
